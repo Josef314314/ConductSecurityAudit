@@ -25,13 +25,3 @@ To address gaps in compliance, Botium Toys needs to implement controls such as L
 See more details in [controls and compliance checklist](https://github.com/Josef314314/ConductSecurityAudit/blob/main/Controls%20and%20compliance%20checklist.pdf).
 
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
